@@ -1,0 +1,3 @@
+LIBRARY nnet_ext.pyd
+EXPORTS
+initnnet_ext
